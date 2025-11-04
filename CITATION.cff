@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following metadata."
+title: "Advanced Falling Object Detection System (AFODS) – Operational Sequence"
+version: "v1.0"
+doi: "10.5281/zenodo.17460756"
+authors:
+  - family-names: Barua
+    given-names: Nick
+    affiliation: "Shiga University of Medical Science"
+  - family-names: Hitosugi
+    given-names: Masahito
+    affiliation: "Shiga University of Medical Science"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/Nick-Barua/AFODS-Operational-Sequence"
