@@ -4,7 +4,7 @@ This repository provides supplementary documentation and the core diagram for th
 
 ## 🖼️ Figure Overview
 
-The diagram illustrates the **advanced, five-stage data processing pipeline** designed for **proactive threat detection**, detailing the sequential flow from initial sensor data acquisition (LWIR, NIR, Ultrasonic) to the final decision and action stage.
+The Graphical Abstract (GA) and the five-stage processing diagram illustrate the advanced data processing pipeline designed for proactive threat detection, detailing the sequential flow from initial sensor data acquisition (LWIR, NIR, Ultrasonic) to the final decision and action stage.
 
 ## 🔗 Repository Links
 
