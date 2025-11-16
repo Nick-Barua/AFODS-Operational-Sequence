@@ -1,26 +1,27 @@
-# AFODS-Sensor-Fusion-Code: Reproducible Methodology (vehicles-3989222)
+# AFODS Operational Sequence Documentation
 
-This repository contains the complete implementation scripts, configuration, and core logic for the **Advanced Falling Object Detection System (AFODS)**. It provides the necessary codebase to reproduce the quantitative results and methodology presented in the academic manuscript "Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety."
+This repository provides supplementary documentation and the core diagram for the operational sequence of the Advanced Falling Object Detection System (AFODS), supporting the academic manuscript **vehicles-3989222**.
 
-## ⚙️ Core Methodology Code
+## 🖼️ Figure Overview
 
-The codebase supports the dual-model AI pipeline:
-* **Detection Model:** YOLOv7-Tiny implementation scripts.
-* **Proactive Model:** Gated Recurrent Unit (GRU) scripts for pose-sequence analysis.
-* **Fusion Logic:** Scripts detailing the confidence-weighted sensor fusion pipeline.
+The diagram illustrates the **advanced, five-stage data processing pipeline** designed for **proactive threat detection**, detailing the sequential flow from initial sensor data acquisition (LWIR, NIR, Ultrasonic) to the final decision and action stage.
 
-## 🔗 Archival and Data Links
+## 🔗 Repository Links
 
-### Figures and Methodology Diagrams
-The static figures and high-level diagrams (e.g., Data Processing Pipeline, TPR chart) are permanently archived on Zenodo:
-* [10.5281/zenodo.17621800]
+| Resource | Purpose |
+| :--- | :--- |
+| **Codebase** | [https://github.com/Nick-Barua/AFODS-Sensor-Fusion-Code] (Contains all implementation scripts and models) |
+| **Video Demonstration** | [10.5281/zenodo.17460755] (Shows the system's real-time performance) |
+| **Methodology Figures** | [10.5281/zenodo.17621800] (Contains all key diagrams and results charts) |
 
-### Supplementary Video Demonstration
-The video demonstrating the operational sequence is also archived:
-* [10.5281/zenodo.17460755]
+## 💡 How to Use
 
-## 🛠️ How to Use (Reproducibility)
-Clone the repository and follow the instructions in the `README.md` and the Wiki pages (e.g., **Validation Script Usage**) to set up the PyTorch environment and reproduce the validation metrics (TPR/FPR).
+The flowchart is intended for use in presentations, documentation, or publications to illustrate the system's architecture and workflow.
 
-## 📚 How to Cite This Work
-Please cite the published article when referencing this code or its methodology.
+---
+
+## 📚 How to Cite
+
+Please cite the final published manuscript if you reference this operational diagram or its workflow.
+
+[will Update this once published!*]
