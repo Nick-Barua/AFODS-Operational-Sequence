@@ -1,6 +1,6 @@
 # AFODS Operational Sequence Documentation
 
-This repository provides supplementary documentation and the core diagram for the operational sequence of the Advanced Falling Object Detection System (AFODS), supporting the academic manuscript **vehicles-3989222**.
+This repository provides supplementary documentation and the core diagram for the operational sequence of the Advanced Falling Object Detection System (AFODS), supporting the academic manuscript ** https://doi.org/10.3390/vehicles7040149 **.
 
 ## 🖼️ Figure Overview
 
